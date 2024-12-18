@@ -88,9 +88,9 @@ supafunc==0.7.0
 tenacity==9.0.0
 tensorboard==2.15
 tensorboard-data-server==0.7.2
-tensorflow==2.15
+tensorflow==2.14.0
 termcolor==2.5.0
-tf_keras==2.18.0
+tf_keras==2.12.0
 tokenizers==0.21.0
 toml==0.10.2
 tornado==6.4.2
