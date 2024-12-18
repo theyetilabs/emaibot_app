@@ -31,7 +31,7 @@ groq==0.13.1
 grpcio==1.68.1
 h11==0.14.0
 h2==4.1.0
-h5py>=3.12.1,<4.0.0
+h5py
 hpack==4.0.0
 httpcore==1.0.7
 httpx==0.27.2
@@ -42,7 +42,7 @@ Jinja2==3.1.4
 jmespath==1.0.1
 jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
-keras==2.12.0
+keras
 libclang==18.1.1
 Markdown==3.7
 markdown-it-py==3.0.0
@@ -52,11 +52,11 @@ ml-dtypes==0.2.0
 multidict==6.1.0
 namex==0.0.8
 narwhals==1.18.4
-numpy>=1.23.5,<2.0.0
+numpy
 opt_einsum==3.4.0
 optree==0.13.1
 packaging==24.2
-pandas>=2.2.3,<3.0.0
+pandas
 pillow==11.0.0
 postgrest==0.18.0
 propcache==0.2.1
@@ -88,7 +88,7 @@ supafunc==0.7.0
 tenacity==9.0.0
 tensorboard==2.15
 tensorboard-data-server==0.7.2
-tensorflow>=2.15.0,<2.20.0
+tensorflow
 termcolor==2.5.0
 tokenizers==0.21.0
 toml==0.10.2
