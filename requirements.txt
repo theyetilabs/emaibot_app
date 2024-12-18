@@ -86,9 +86,9 @@ streamlit==1.41.1
 supabase==2.10.0
 supafunc==0.7.0
 tenacity==9.0.0
-tensorboard==2.12
+tensorboard==2.15
 tensorboard-data-server==0.7.2
-tensorflow==2.12
+tensorflow==2.15
 termcolor==2.5.0
 tf_keras==2.18.0
 tokenizers==0.21.0
